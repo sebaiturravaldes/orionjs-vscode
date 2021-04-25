@@ -1,7 +1,7 @@
 ### TODO
-- [] Snippets
-	- [] Collection findOne
-	- [] Collection findOneAndUpdate
+- [ ] Snippets
+	- [ ] Collection findOne
+	- [ ] Collection findOneAndUpdate
         - [] Collection find, toArray
         - [] Collection find, count
         - [] Collection insert
