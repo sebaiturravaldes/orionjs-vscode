@@ -32,6 +32,6 @@
 		- [ ] Create Resolver
 		- [ ] Create Mutation
 
-- [ ] [OrionSoft](https://github.com/orionsoft/atom)?
+- [ ] [OrionSoft](https://github.com/orionsoft/atom)?
 
 - [ ] [Autocomplete Atom](https://github.com/orionsoft/atom-graphql-autocomplete)?
