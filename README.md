@@ -1,0 +1,16 @@
+### TODO
+- [] Snippets
+- [] OrionJS
+	- [] Create a Resolver
+	- [] Create a Mutation Resolver
+	- [] Create a Resolvers Group
+	- [] Create Component
+	- [] Create Paginated Resolver
+	- [] Create a Find One Resolver
+	- [] Create a Create Mutation
+	- [] Create a Update Mutation
+	- [] Create a Delete Mutation
+	- [] Create a new Collection
+	- [] Create a new Model
+	- [] Create a Event Job
+	- [] Create a Recurrent Job
